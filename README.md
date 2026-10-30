@@ -105,7 +105,7 @@ Não use fotos de terceiros como se fossem trabalhos da barbearia.
 
 ### Links, SEO e publicação
 
-- WhatsApp: `5519983624512`, com mensagem pré-preenchida em todos os links.
+- WhatsApp: `5519982781984`, com mensagem pré-preenchida em todos os links.
 - Instagram: https://www.instagram.com/matheus.barbershoopp/
 - Endereço: Rua Júlio Bagnato, Jardim Ouro Branco, Limeira/SP, 13482-122.
 
