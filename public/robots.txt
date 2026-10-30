@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://joaovsbuarque2.github.io/MATHEUS-BARBER-SHOP/sitemap.xml

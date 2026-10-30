@@ -1,0 +1,25 @@
+{
+  "name": "Matheus Barber Shop",
+  "short_name": "Matheus Barber",
+  "description": "Barbearia no Jardim Ouro Branco, em Limeira/SP.",
+  "lang": "pt-BR",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#171513",
+  "theme_color": "#171513",
+  "icons": [
+    {
+      "src": "./favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "./images/logo.png",
+      "sizes": "225x225",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
